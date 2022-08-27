@@ -1,0 +1,18 @@
+li{
+    display: inline-block;
+    margin-right: 3rem;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(21, 20, 20);
+}
+ul{
+    text-align: right;
+    background-color: rgb(244, 220, 220);
+    padding: 20px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
